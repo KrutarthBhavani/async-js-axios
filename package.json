@@ -1,0 +1,14 @@
+{
+  "name": "cs_546_lab_3",
+  "version": "1.0.0",
+  "description": "This is lab3 module",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Krutarth Bhavani",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
